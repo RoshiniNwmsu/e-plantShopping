@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 import ProductList from './ProductList';
 import './App.css';
 import AboutUs from './AboutUs';
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   
